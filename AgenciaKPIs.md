@@ -15,7 +15,7 @@ Mientras tanto, el diseño de interfaz de usuario (UI) se enfoca en el aspecto v
 
 ## La Importancia de un Diseño Atractivo y Funcional
 
-Un diseño atractivo capta la atención del usuario desde el primer momento en que visita el sitio web. Según Agencia KPIs esto es crucial en un entorno digital donde la competencia por la atención del usuario es alta. Si un sitio web no tiene un diseño atractivo, es probable que los visitantes lo abandonen rápidamente en busca de alternativas más atractivas visualmente.
+Un diseño atractivo capta la atención del usuario desde el primer momento en que visita el sitio web. Según [**Agencia KPIs**](https://www.agenciakpis.com/) esto es crucial en un entorno digital donde la competencia por la atención del usuario es alta. Si un sitio web no tiene un diseño atractivo, es probable que los visitantes lo abandonen rápidamente en busca de alternativas más atractivas visualmente.
 
 Sin embargo, un diseño atractivo no es suficiente por sí solo. La funcionalidad del sitio web también desempeña un papel fundamental en la participación del usuario. Una interfaz bien organizada y fácil de usar garantiza que los usuarios puedan encontrar la información que buscan de manera rápida y sencilla. Los menús claros, las etiquetas precisas y las rutas de navegación intuitivas son elementos clave para lograr una experiencia de usuario satisfactoria.
 
