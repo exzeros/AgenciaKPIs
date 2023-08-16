@@ -2,7 +2,13 @@
 
 El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI) juega un papel crucial en el desarrollo web moderno. Estos elementos son esenciales para garantizar una participación efectiva y positiva por parte de los usuarios en un sitio web. A continuación, exploraremos cómo el diseño UX/UI influye en la participación del usuario y por qué es fundamental para el éxito de cualquier proyecto web.
 
-<p align="center"><img src="[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRGnaLQQMbUbLEhdhXngrhDQfvsTr8yWtb16mhYF2sc4xe_gLQxavPQJSqTnVqfJf6fqOJAmO0sfrY7JMJMclYW8U2AWyC0gJ6Cc0Xgb6pyynLVtCh4T7sCGKojTyL45BQMQ8SPO37RCe-OvP95ok7lLWZ7O1lCwq0mk-JYcr1oX480-3YbCdsAy1BpVhf/s1600/Untitled%20design%20%281%29.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRGnaLQQMbUbLEhdhXngrhDQfvsTr8yWtb16mhYF2sc4xe_gLQxavPQJSqTnVqfJf6fqOJAmO0sfrY7JMJMclYW8U2AWyC0gJ6Cc0Xgb6pyynLVtCh4T7sCGKojTyL45BQMQ8SPO37RCe-OvP95ok7lLWZ7O1lCwq0mk-JYcr1oX480-3YbCdsAy1BpVhf/s1600/Untitled%20design%20%281%29.png)"/></p>
+<p align="center"><div class="separator" style="clear: both; text-align: center;">
+  <img
+      border="0"
+      data-original-height="357"
+      data-original-width="398"      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRGnaLQQMbUbLEhdhXngrhDQfvsTr8yWtb16mhYF2sc4xe_gLQxavPQJSqTnVqfJf6fqOJAmO0sfrY7JMJMclYW8U2AWyC0gJ6Cc0Xgb6pyynLVtCh4T7sCGKojTyL45BQMQ8SPO37RCe-OvP95ok7lLWZ7O1lCwq0mk-JYcr1oX480-3YbCdsAy1BpVhf/s1600/Untitled%20design%20%281%29.png"
+  />
+</div></p>
 
 ## ¿Qué es el Diseño UX/UI?
 
